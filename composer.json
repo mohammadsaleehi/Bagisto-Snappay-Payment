@@ -1,0 +1,11 @@
+{
+  "name": "webkul/snapp-pay",
+  "description": "SnappPay payment method for Bagisto",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Webkul\\SnappPay\\": "src/"
+    }
+  }
+}
